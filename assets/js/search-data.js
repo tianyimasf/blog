@@ -7,35 +7,35 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/writes/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/blog/";
+            window.location.href = "/writes/blog/";
           },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/repositories/";
+            window.location.href = "/writes/repositories/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/al-folio/books/";
+                window.location.href = "/writes/books/";
               },
             },{id: "dropdown-blog",
               title: "blog",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/al-folio/blog/";
+                window.location.href = "/writes/blog/";
               },
             },{id: "post-paper-reading-harnessing-artificial-intelligence-to-fill-global-shortfalls-in-biodiversity-knowledge",
         
@@ -45,19 +45,19 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2025/plotly/";
+            window.location.href = "/writes/blog/2025/plotly/";
           
         },
       },{id: "books-data-science-for-business",
           title: 'Data Science For Business',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/al-folio/books/data_science_for_business/";
+              window.location.href = "/writes/books/data_science_for_business/";
             },},{id: "books-the-invisible-life-of-addie-larue",
           title: 'The Invisible Life of Addie LaRue',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/al-folio/books/the_invisible_life_of_addie_larue/";
+              window.location.href = "/writes/books/the_invisible_life_of_addie_larue/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -65,7 +65,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
+              window.location.href = "/writes/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -73,47 +73,47 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/1_project/";
+              window.location.href = "/writes/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/2_project/";
+              window.location.href = "/writes/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/3_project/";
+              window.location.href = "/writes/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/4_project/";
+              window.location.href = "/writes/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/5_project/";
+              window.location.href = "/writes/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/6_project/";
+              window.location.href = "/writes/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/7_project/";
+              window.location.href = "/writes/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/8_project/";
+              window.location.href = "/writes/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/9_project/";
+              window.location.href = "/writes/projects/9_project/";
             },},{
         id: 'social-discord',
         title: 'Discord',
