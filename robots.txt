@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tianyimasf.github.io/writes/sitemap.xml
+Sitemap: https://tianyimasf.github.io/writes//sitemap.xml
