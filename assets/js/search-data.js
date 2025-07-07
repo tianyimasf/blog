@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/writes/blog/2025/plotly/";
+            window.location.href = "/writes/blog/2025/harness-ai-for-conservation-paper/";
           
         },
       },{id: "books-data-science-for-business",
